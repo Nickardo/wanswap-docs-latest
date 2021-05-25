@@ -1,15 +1,15 @@
 # CONTACT US
 
-![](/contactus.png)
 
-Telegram: [https://t.me/ZooFarming](https://t.me/zoofarming)
 
-Twitter: [https://twitter.com/ZooFarming](https://twitter.com/ZooFarming) 
+Telegram: [https://t.me/wanswap_official](https://t.me/wanswap_official)
 
-Medium: [https://medium.com/@ZooFarming](https://medium.com/@ZooFarming) 
+Twitter: [https://twitter.com/wanswap](https://twitter.com/wanswap) 
 
-YouTube: [https://www.youtube.com/c/ZooFarming](https://www.youtube.com/c/ZooFarming)
+Medium: [https://medium.com/wanswap](https://medium.com/wanswap) 
 
-Reddit: [https://www.reddit.com/user/ZooFarming](https://www.reddit.com/user/ZooFarming) 
+YouTube: [https://www.youtube.com/channel/UCVQ0oT-kgmX5ejDLeuKxyFw](https://www.youtube.com/c/wanswap)
+
+Reddit: [https://www.reddit.com/r/wanswap/](https://www.reddit.com/r/wanswap/) 
 
 Forum: [http://bbs.zookeeper.finance](http://bbs.zookeeper.finance)

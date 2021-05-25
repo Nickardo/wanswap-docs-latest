@@ -2,4 +2,4 @@
 
 ![](/codeaudit.png)
 
-Official audit is currently being processed by HAECHI (eta end of May 2021) while the current code has been pre-audited by the Wanchain Team and can be found on the Github: [https://github.com/ZooFarming](https://github.com/ZooFarming)
+Official audit is was done by HAECHI, the report can be found here: [Haechi Audit](https://github.com/wanswap/wanswap-contracts/blob/master/%5BHAECHI%20AUDIT%5D%20WanSwap%20Smart%20Contract%20Audit%20Report%20ver%202.0.pdf)
