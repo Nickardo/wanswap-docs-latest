@@ -1,12 +1,8 @@
 {
-  "index": "What is ZooKeeper",
-  "features": "Features",
+  "index": "What is WanSwap",
   "why_use_wanchain":"Why use Wanchain (WAN)",
-  "products":"Products",
-  "governance":"Governance Proposal Rules",
   "manual":"User Manual",
-  "roadmap":"Roadmap",
-  "faq":"FAQ",
+  "docs":"Docs",
   "audit":"Code Audit",
   "contact":"Contact Us"
 }
