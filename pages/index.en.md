@@ -18,6 +18,8 @@ Apart from the instant swapping using its trustless decentralized environment, W
 
 · Farming: For people who provide liquidity, an extra incentive is given for specific trading pairs by letting them farm WASP, the WanSwap native token.
 
+· Dual farming on ZooKeeper: For some farming pairs there are dual farming rewards. Next to WASP you can earn ZOO, this can be done on ZooKeeper.
+
 · Hive: As a decentralized platform, WanSwap offers a staking feature called the Hive. Any user can stake their WASP tokens on the Hive and earn WAN.
 
 · Analytics: The analytics page gives an instant overview of the liquidity and trading data of the listed tokens on WanSwap, enabling traders to make better choices on swapping and selecting which pool they want to invest in.
