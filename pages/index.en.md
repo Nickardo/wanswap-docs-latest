@@ -1,6 +1,6 @@
 # WanSwap Introduction
 
-WanSwap is an Automated Market Maker (AMM) and a decentralized exchange that creates a whole new trading and financial atmosphere for people to trade, swap and make cryptocurrencies.
+WanSwap is an Automated Market Maker (AMM) and a decentralized exchange that's part of a new ecosystem that allows for trading, compounding and yield farming.
 
 ## More than a DEX
 
